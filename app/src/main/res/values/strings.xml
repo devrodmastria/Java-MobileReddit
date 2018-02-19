@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mobile Reddit</string>
+    <string name="submit_button">Submit</string>
+    <string name="category_hint">Enter category</string>
+    <string name="category_filter">Category filter</string>
+</resources>
